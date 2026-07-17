@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.npz
+*_audio.wav
+*.wav
+*.mp4
+!videos/cai.mp4
+videos/*
+!videos/cai.mp4
+.idea/
+.vscode/
+*.egg-info/
